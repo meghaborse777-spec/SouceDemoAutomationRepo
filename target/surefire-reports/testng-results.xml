@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-21T19:52:40 IST" name="Suite" finished-at="2026-01-21T19:53:36 IST" duration-ms="56610">
+    <groups>
+    </groups>
+    <test started-at="2026-01-21T19:52:40 IST" name="Test" finished-at="2026-01-21T19:53:36 IST" duration-ms="56610">
+      <class name="org.automation.qa.LoginTest">
+        <test-method is-config="true" signature="suite()[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:52:39 IST" name="suite" finished-at="2026-01-21T19:52:40 IST" duration-ms="496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suite -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:52:40 IST" name="setup" finished-at="2026-01-21T19:52:47 IST" duration-ms="6983" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.automation.qa.LoginTest.EDT003_BlankFeilds()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="EDT003_BlankFeilds()[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:52:47 IST" name="EDT003_BlankFeilds" finished-at="2026-01-21T19:52:48 IST" duration-ms="849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EDT003_BlankFeilds -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:52:48 IST" name="tearDown" finished-at="2026-01-21T19:52:49 IST" duration-ms="960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:52:49 IST" name="setup" finished-at="2026-01-21T19:52:53 IST" duration-ms="4760" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.automation.qa.LoginTest.EDT004_SpecialCharacter()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="EDT004_SpecialCharacter()[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:52:53 IST" name="EDT004_SpecialCharacter" finished-at="2026-01-21T19:52:55 IST" duration-ms="1186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EDT004_SpecialCharacter -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:52:55 IST" name="tearDown" finished-at="2026-01-21T19:52:55 IST" duration-ms="800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:52:55 IST" name="setup" finished-at="2026-01-21T19:53:00 IST" duration-ms="4527" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.automation.qa.LoginTest.EDT005_LongCharacter()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="EDT005_LongCharacter()[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:53:00 IST" name="EDT005_LongCharacter" finished-at="2026-01-21T19:53:01 IST" duration-ms="1279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EDT005_LongCharacter -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:53:01 IST" name="tearDown" finished-at="2026-01-21T19:53:02 IST" duration-ms="1032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:53:02 IST" name="setup" finished-at="2026-01-21T19:53:06 IST" duration-ms="3555" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.automation.qa.LoginTest.FT001_Valid_Credentials()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FT001_Valid_Credentials()[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:53:06 IST" name="FT001_Valid_Credentials" finished-at="2026-01-21T19:53:08 IST" duration-ms="1930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FT001_Valid_Credentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:53:08 IST" name="tearDown" finished-at="2026-01-21T19:53:09 IST" duration-ms="1092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:53:09 IST" name="setup" finished-at="2026-01-21T19:53:13 IST" duration-ms="4513" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.automation.qa.LoginTest.FT002_Invalid_Credentials()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FT002_Invalid_Credentials()[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:53:13 IST" name="FT002_Invalid_Credentials" finished-at="2026-01-21T19:53:14 IST" duration-ms="1083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FT002_Invalid_Credentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:53:14 IST" name="tearDown" finished-at="2026-01-21T19:53:15 IST" duration-ms="848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:53:15 IST" name="setup" finished-at="2026-01-21T19:53:20 IST" duration-ms="4481" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.automation.qa.LoginTest.ST_CSS_XSScripting()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ST_CSS_XSScripting()[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:53:20 IST" name="ST_CSS_XSScripting" finished-at="2026-01-21T19:53:21 IST" duration-ms="1277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ST_CSS_XSScripting -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:53:21 IST" name="tearDown" finished-at="2026-01-21T19:53:22 IST" duration-ms="955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:53:22 IST" name="setup" finished-at="2026-01-21T19:53:26 IST" duration-ms="4390" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.automation.qa.LoginTest.ST_HTTPSEnforcement()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ST_HTTPSEnforcement()[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:53:26 IST" name="ST_HTTPSEnforcement" finished-at="2026-01-21T19:53:28 IST" duration-ms="1438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ST_HTTPSEnforcement -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:53:28 IST" name="tearDown" finished-at="2026-01-21T19:53:29 IST" duration-ms="1328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:53:29 IST" name="setup" finished-at="2026-01-21T19:53:33 IST" duration-ms="3670" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.automation.qa.LoginTest.ST_SQLInjection()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ST_SQLInjection()[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:53:33 IST" name="ST_SQLInjection" finished-at="2026-01-21T19:53:36 IST" duration-ms="2757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ST_SQLInjection -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:53:36 IST" name="tearDown" finished-at="2026-01-21T19:53:36 IST" duration-ms="821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:org.automation.qa.LoginTest@6743e411]" started-at="2026-01-21T19:53:36 IST" name="afterSuite" finished-at="2026-01-21T19:53:38 IST" duration-ms="1337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- org.automation.qa.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
